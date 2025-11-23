@@ -11,21 +11,28 @@ I love building **LLM-powered systems**, **backend services**, and the occasiona
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
-**Languages:** C++ | Python | Java | JavaScript/TypeScript | SQL | Bash | Perl | C#
-**Frameworks:** FastAPI | Flask | Django | React | Node.js | Websockets | Selenium | REST/GraphQL/gPRC
-**DBs and Messaging:** MySQL | PostgreSQL | MongoDB | Redis | Neo4j | DynamoDB | Kafka
-**Cloud:** AWS (EC2, Lambda, ECS, EKS, RDS, S3, DynamoDB, SQS, IAM) | CloudFormation | Terraform
-**DevOps and Platforms:** Kubernetes | Docker | Jenkins | Git | Unix Systems | Grafana | Cloudwatch | ElasticSearch | SonarQube
-**Software Practices:** TDD/BDD (Cucumber, Gherkin, PyTest) | CI/CD | System Design | Agile/SAFe
-**AI / LLM:** RAG | LangChain | MCP | n8n | VectorDB (Pinecone, FAISS) | LLM APIs | PyTorch
-**Data / Infra:** AWS (RDS, S3, Lambda), Redis, DynamoDB, PostgreSQL/MySQL  
+**Languages:**&emsp;&emsp;&emsp;C++ | Python | Java | JavaScript/TypeScript | SQL | Bash | Perl | C#
+
+**Frameworks:**&emsp;&emsp;&emsp;FastAPI | Flask | Django | React | Node.js | Websockets | Selenium | REST/GraphQL/gPRC
+
+**DBs and Messaging:**&emsp;&emsp;&emsp;MySQL | PostgreSQL | MongoDB | Redis | Neo4j | DynamoDB | Kafka
+
+**Cloud:**&emsp;&emsp;&emsp;AWS (EC2, Lambda, ECS, EKS, RDS, S3, DynamoDB, SQS, IAM) | CloudFormation | Terraform
+
+**DevOps and Platforms:**&emsp;&emsp;&emsp;Kubernetes | Docker | Jenkins | Git | Unix Systems | Grafana | Cloudwatch | ElasticSearch | SonarQube
+
+**Software Practices:**&emsp;&emsp;&emsp;TDD/BDD (Cucumber, Gherkin, PyTest) | CI/CD | System Design | Agile/SAFe
+
+**AI / LLM:**&emsp;&emsp;&emsp;RAG | LangChain | MCP | n8n | VectorDB (Pinecone, FAISS) | LLM APIs | PyTorch
+
+**Data / Infra:**&emsp;&emsp;&emsp;AWS (RDS, S3, Lambda), Redis, DynamoDB, PostgreSQL/MySQL  
 
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - **[PartSelect_RAG](https://github.com/VaibhavBhandari2999/PartSelect_RAG)**  
   Production-style **RAG chatbot** with multi-agent orchestration, Pinecone, Postgres (RDS), and evaluation pipeline.
