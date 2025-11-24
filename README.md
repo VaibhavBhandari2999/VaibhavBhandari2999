@@ -7,7 +7,7 @@ I love building **LLM-powered systems**, **backend services**, and the occasiona
 - Interests: LLM agents, retrieval systems, distributed backends, airline/travel infra
 - Learning more about: infra-as-code, observability, and production evaluation of LLM features
 - Reach me: [LinkedIn](https://www.linkedin.com/in/vbhandari2999/) • [Email](mailto:vbhandari2999@gmail.com)
-- **Resume:** [Download PDF]()
+- **Resume:** [Download PDF](https://drive.google.com/file/d/1cioHlxGrPkrEBbO75ta1GQetK30Webpv/view)
 
 ---
 
